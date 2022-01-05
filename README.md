@@ -6,4 +6,5 @@ Link for the dataset: https://www.kaggle.com/muthuj7/weather-dataset
 
 Article Link: https://riteshuppal1402.medium.com/performing-analysis-of-meteorological-data-92a4f75148c8
 
-![image](https://user-images.githubusercontent.com/68817881/148181469-396736b3-fe92-487f-9177-c23df33264b4.png)
+![image](https://user-images.githubusercontent.com/68817881/148183345-728dc7dd-85a1-4c7d-9de3-c6d945002810.png)
+
